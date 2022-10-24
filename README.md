@@ -1,4 +1,3 @@
-### Hello there
 <br/>
 <h2>A couple of my statistics</h2>
 <br/>
@@ -10,13 +9,14 @@
 </a>
 <br/>
 <h2>Connect with me!</h2>
-<a href="https://www.linkedin.com/in/octavianmmatei/">
+<a href="https://www.linkedin.com/in/octavianmmatei/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<!--
 <br/><br/>
 <h2>Languages and Frameworks</h2>
 <br/>
-
  <code>
   <img height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
   <img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png">
@@ -40,7 +40,6 @@
 </code>
 
 <br/>
-<!--
 **tavisit/tavisit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
